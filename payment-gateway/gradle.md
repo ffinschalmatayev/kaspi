@@ -132,5 +132,3 @@ rootProject.name = 'payment-gateway'
 #### \#Описание:
 
 -  Скрипт аналогичен `gradlew.bat`, но предназначен для операционных систем, основанных на UNIX (Linux, macOS). Он выполняет проверку Java, находит путь к `gradle-wrapper.jar` и запускает Gradle.
-
-
